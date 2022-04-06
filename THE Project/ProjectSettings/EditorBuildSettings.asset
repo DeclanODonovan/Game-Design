@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Flappy Bird 1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 9f31ff2748f99a9428655331d952e4a5
+  - enabled: 1
+    path: Assets/Scenes/Platforming 1.unity
+    guid: 8019cb084f2ff444aa609b865a6bc346
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 3ed173ab46c2e4447937fc58128d52d1
+  - enabled: 1
+    path: Assets/Scenes/Intro-1.unity
+    guid: 148b5e6ea45ebf84f8486b41ff26a7c6
+  - enabled: 1
+    path: Assets/Scenes/Intro-2.unity
+    guid: 697ed10590e093243aafc996ce954b8c
+  - enabled: 1
+    path: Assets/Scenes/Intro-3.unity
+    guid: 2b025caba4e38b844b57ae18252102df
+  m_configObjects: {}
